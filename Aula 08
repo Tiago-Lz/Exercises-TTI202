@@ -1,0 +1,17 @@
+Release Plan:
+  -Agendamento online com log in.
+
+
+User Storie:
+  -Criação de log in em um site para agendamentos de consultas médicas.
+  
+
+Tarefas:
+  - Configurar a infraestrutura e autenticação;
+  - Validar as credenciais;
+  - Permitir a recuperação de senha;
+  
+ Story Points Respectivamente:
+  - 4 pontos;
+  - 2 pontos;
+  - 2 pontos;
